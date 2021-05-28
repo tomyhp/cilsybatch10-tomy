@@ -44,3 +44,4 @@ sed -i "s/error_reporting = .*/error_reporting = E_ALL/" /etc/php/7.0/apache2/ph
 sed -i "s/display_errors = .*/display_errors = On/" /etc/php/7.0/apache2/php.ini
 
 service apache2 restart
+
