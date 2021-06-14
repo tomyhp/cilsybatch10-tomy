@@ -1,0 +1,11 @@
+﻿Group hierarchy,Region,Description,Service,Upfront,Monthly,First 12 months total,Currency,Configuration summary
+My Estimate,Asia Pacific (Singapore),,Amazon RDS for MySQL,0,49.09,589.08,USD,"Storage for each RDS instance (General Purpose SSD (gp2)), Storage amount (30 GB), Quantity (1), Instance type (db.t2.micro), Deployment option (Multi-AZ), Pricing strategy (OnDemand), Additional backup storage (30 GB)"
+My Estimate,Asia Pacific (Singapore),,Amazon EC2,0,20.49,245.88,USD,"Operating system (Linux), Quantity (2), Pricing strategy (EC2 Instance Savings Plans 1 Year No Upfront), Storage amount (30 GB), Instance type (t2.micro)"
+My Estimate,Asia Pacific (Singapore),,Amazon Route 53,0,1,12.00,USD,Hosted Zones (2)
+My Estimate,Asia Pacific (Singapore),,Classic Load Balancer,0,20.6,247.20,USD,"Number of Classic Load Balancers (1), Processed bytes per CLB (20 GB per month)"
+My Estimate,Asia Pacific (Singapore),,Amazon Virtual Private Cloud (VPC),0,43.66,523.92,USD,Number of NAT Gateways (1)
+
+
+
+Acknowledgement
+"* AWS Pricing Calculator provides only an estimate of your AWS fees and doesn't include any taxes that might apply. Your actual fees depend on a variety of factors, including your actual usage of AWS services."
